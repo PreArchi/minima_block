@@ -1,0 +1,112 @@
+.links-body {
+    color: #FFF44F !important;
+    transition: 0.3s !important;
+}
+
+.links-body:hover {
+    color: #f81744 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+}
+
+
+
+header {
+    background-color: rgba(0, 0, 0, 0.048);
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    position: fixed;
+    z-index: 9999;
+
+}
+
+
+p {
+    font-family: 'Roboto Mono', monospace;
+    padding: 250px;
+}
+
+
+
+.header-body {
+    align-items: center;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 0px !important;
+    color: rgb(11, 25, 34);
+}
+
+nav {
+    opacity: 1 !important;
+}
+
+.btn:hover {
+    background-color: rgba(0, 0, 0, 0.158);
+    color: black;
+}
+
+::selection {
+    background: #80808080; /* Safari */
+    }
+::-moz-selection {
+    background: #80808080; /* Firefox */
+    }
+    
+
+/*БЛОКИ*/
+
+.block-1 {
+    height: 648px;
+    background-color: #f8e217; /*жёлтый*/
+    color: rgb(11, 25, 34);
+}
+
+
+.block-2 {
+    height: 648px;
+    background-color: #f81744; /*красный*/
+    color: #ffd2db;
+}
+
+.block-3 {
+    height: 648px;
+    background-color: #29a73a; /*зелёный*/
+}
+
+.block-4 {
+    height: 648px;
+    background-color: #0e0c16; /*чёрный*/
+    color: white;
+}
+
+.block-5 {
+    height: 648px;
+    background-color: #812fc5; /*фиолетовый*/
+    color: rgb(218, 241, 255);
+}
+
+
+.block-6 {
+    height: 648px;
+    background-color: white; /*белый*/
+    color: rgb(11, 25, 34);
+}
+
+/*endif*/
+
+
+.link-block {
+    color: rgb(11, 25, 34);
+    transition: 0.4s;
+}
+
+
+.link-block:hover {
+    color: rgb(49, 53, 0);
+
+
+}
