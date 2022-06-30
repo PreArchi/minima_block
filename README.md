@@ -1,5 +1,5 @@
 # minima_block
->Сайт сделанный для проверки фреймворка fullpage.js. *2022 год.*
+>Сайт сделанный для проверки фреймворка fullpage.js. *2020 год.*
 
 ![This is an image](https://psv4.userapi.com/c536436/u300648698/docs/d8/e6408aa85d08/ezgif_com-gif-maker.gif?extra=xvsw2zaT9LknHzWFC-9dfCrR8QdTVfRKZq1Z91ymvuBUVzPwwf4hZfyUzEfXSgRdPbW4GMbQncKhvibtBTgNyVw3XpWasw8XlQ_hXAjcPLjg_JeZFRy0NIG8MDnhXCLPas4CGe9wIDBYNizp-rbpxIw)
 
